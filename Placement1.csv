@@ -1,0 +1,21 @@
+sl_no,gender,ssc_p,hsc_p,hsc_s,degree_p,etest_p,specialisation,mba_p,status,salary
+1,M,67,91,Commerce,58,55,Marketing,58.8,Placed,270000
+2,M,,78.33,Science,77.48,86.5,Mkt&Fin,66.28,Placed,200000
+3,M,65,68,Arts,64,75,Mkt&Fin,57.8,Placed,250000
+4,M,56,52,Science,52,66,Mkt&HR,59.43,Not Placed,
+5,M,85.8,73.6,Commerce,73.3,96.8,Mkt&Fin,55.5,Placed,425000
+6,M,55,,Science,67.25,55,Mkt&Fin,51.58,Not Placed,
+7,F,46,49.2,Commerce,79,74.28,Mkt&Fin,,Not Placed,
+8,M,82,64,Science,,67,Mkt&Fin,62.14,Placed,252000
+9,M,73,79,Commerce,72,91.34,Mkt&Fin,61.29,Placed,231000
+10,M,58,70,Commerce,61,54,Mkt&Fin,,Not Placed,
+11,M,58,61,Commerce,60,62,Mkt&HR,60.85,Placed,260000
+12,M,69.6,68.4,Commerce,78.3,60,Mkt&Fin,63.7,Placed,250000
+13,F,,55,Science,65,62,Mkt&HR,65.04,Not Placed,
+14,F,77,87,Commerce,,68,Mkt&Fin,,Placed,218000
+15,M,62,47,Commerce,50,76,Mkt&HR,54.96,Not Placed,
+16,F,65,75,Commerce,69,72,Mkt&Fin,64.66,Placed,200000
+17,M,63,66.2,Commerce,65.6,60,Mkt&Fin,62.54,Placed,300000
+18,F,,67,Commerce,64,60,Mkt&Fin,67.28,Not Placed,
+19,F,63,66,Commerce,64,68,Mkt&HR,64.08,Not Placed,
+20,M,60,0,Arts,70,50.48,Mkt&Fin,77.89,Placed,236000
